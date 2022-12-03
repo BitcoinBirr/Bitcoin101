@@ -1,9 +1,10 @@
 # BitcoinLectures
 
-<img width="944" alt="Screen Shot 2022-03-06 at 1 41 16 PM" src="https://user-images.githubusercontent.com/87287532/156919650-82b5f3ce-4b28-413a-8d42-91eddc141a7a.png">
+<img width="944" alt="156919650-82b5f3ce-4b28-413a-8d42-91eddc141a7a" src="https://user-images.githubusercontent.com/87287532/205466897-96e93089-f61d-480c-be05-a88fcb92bf7d.png">
 
 “Bitcoin and its possibilities in Ethiopia”
 [Bitcoin 101.pdf](https://github.com/BitcoinBirr/Bitcoin101/files/8132904/Bitcoin.101.pdf)
+
 
 Thursday
 Feb. 24th, 2022
