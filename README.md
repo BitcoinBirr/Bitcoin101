@@ -12,7 +12,7 @@ Feb. 24th, 2022
 Metro, Hyatt Regency
 Addis Ababa, Ethiopia
 
-<img width="949" alt="Screen Shot 2022-03-06 at 1 41 30 PM" src="https://user-images.githubusercontent.com/87287532/156919656-726bf2c5-3617-4589-b0d9-33d5b2688d0d.png">
+<img width="949" alt="156919656-726bf2c5-3617-4589-b0d9-33d5b2688d0d" src="https://user-images.githubusercontent.com/87287532/205467055-044830f8-5afe-4f69-b52a-1e6835291ada.png">
 
 "Introduction to Bitcoin”
 [Why Bitcoin?.pdf](https://github.com/BitcoinBirr/BitcoinLectures/files/8192361/Why.Bitcoin.pdf)
