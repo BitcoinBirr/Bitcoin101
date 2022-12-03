@@ -2,8 +2,7 @@
 
 <img width="944" alt="156919650-82b5f3ce-4b28-413a-8d42-91eddc141a7a" src="https://user-images.githubusercontent.com/87287532/205466897-96e93089-f61d-480c-be05-a88fcb92bf7d.png">
 
-“Bitcoin and its possibilities in Ethiopia”
-[Bitcoin 101.pdf](https://github.com/BitcoinBirr/Bitcoin101/files/8132904/Bitcoin.101.pdf)
+“Bitcoin 101: Bitcoin and its possibilities in Ethiopia”
 
 
 Thursday
@@ -14,8 +13,7 @@ Addis Ababa, Ethiopia
 
 <img width="949" alt="156919656-726bf2c5-3617-4589-b0d9-33d5b2688d0d" src="https://user-images.githubusercontent.com/87287532/205467055-044830f8-5afe-4f69-b52a-1e6835291ada.png">
 
-"Introduction to Bitcoin”
-[Why Bitcoin?.pdf](https://github.com/BitcoinBirr/BitcoinLectures/files/8192361/Why.Bitcoin.pdf)
+"TEDx: Introduction to Bitcoin”
 
 
 Sunday
